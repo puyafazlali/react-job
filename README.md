@@ -1,4 +1,4 @@
-# Job Listing Frontend Application
+# Job Listing React Application
 
 This project is a Job Listing Frontend Application built using React, following the tutorial by Traversy Media. The application allows users to view, delete and edit job listings from an API.
 
